@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/alarm_image_list.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/gradientrectangle.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/heart_image_list.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_baseline_alarm_add_24.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_baseline_alarm_off_24.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_heart_0.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_heart_100.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_heart_25.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_heart_50.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_heart_75.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/drawable/uvpce_logo_list.xml" value="0.1265" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/mipmap-anydpi-v26/alarm1.jpg.xml" value="0.1" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/mipmap-anydpi-v26/alarm1.jpg_round.xml" value="0.1" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/MADPractical8_20012011027/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
